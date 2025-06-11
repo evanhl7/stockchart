@@ -38,6 +38,10 @@ This project is a browser-based stock visualizer that renders interactive techni
 * Signal line is the 9-period EMA of the MACD line.
 * MACD histogram (MACD - Signal) is also computed.
 
+### How to Access
+
+* The deployed online version is on https://jumpypixels.com/stockchart
+
 ## License
 
 This project is open-source and free to use for educational or personal analysis purposes.
